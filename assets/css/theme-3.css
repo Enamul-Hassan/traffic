@@ -1,0 +1,66 @@
+body {
+    line-height: 1.8em;
+    font-weight: 300;
+}
+.websit-chack-form {
+  margin-top: -35px;
+}
+.boxed-btn, input[type="submit"], button[type="submit"] {
+  background-color: #4ad79e;
+}
+.pdt-50 > h2 {
+    font-size: 23px;
+}
+.pdt-50 > p {
+    line-height: 1.8;
+}
+.single-slide-item::after {
+    background: rgba(0, 0, 0, 0) linear-gradient(to right, #4354ef, #56ccfb) repeat scroll 0 0;
+    content: "";
+    height: 100%;
+    left: 0;
+    opacity: 0.9;
+    position: absolute;
+    top: 0;
+    width: 100%;
+    z-index: -1;
+}
+.single-service-box:hover .service-readmore-btn, .single-service-box:hover h3, .single-service-box:hover i {
+  color: #4ad79e;
+  transition: all 0.3s ease 0s;
+}
+.single-service-box:hover {
+  border-color: #4ad79e;
+  transition: all 0.3s ease 0s;
+}
+.single-service-box{
+    margin-bottom:0px;
+}
+.single-blog-box h4 {
+    line-height: 1.6em;
+}
+.single-blog-box p {
+    font-weight: 300;
+}
+.social-link a:hover i {
+    color: #4ad79e;
+}
+.social-link a i {
+    font-size: 18px;
+    transition: all 0.1s ease 0s;
+}
+.header-area.header-absolut:hover {
+    background-color: #3a3a3a;
+}
+.header-absolut .mainmenu ul li a:hover {
+    color: #4ad79e;
+}
+.header-area.header-absolut {
+  transition: .3s;
+}
+.slicknav_nav .slicknav_row:hover, .slicknav_nav a:hover, .slicknav_btn {
+    background-color: #4AD79E;
+}
+.footer-text img {
+  margin-bottom: 0px;
+}

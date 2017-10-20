@@ -1,0 +1,17 @@
+.slicknav_btn, .slicknav_nav .slicknav_row:hover, .slicknav_nav a:hover, .mainmenu.theme2 ul li:hover li:hover > a, .owl-dots div.active, .owl-dots div.active, .boxed-btn, input[type="submit"], button[type="submit"], .case-study-wrapper, .mainmenu ul li:hover li:hover > a, .hero-form-wrapper input[type="submit"], .case-stydy-tebelcell .boxed-btn, .cta-area.theme2 .boxed-btn, .video-play-btn, .homepage-slides .owl-dots div.active, .theme2 .case-study-wrapper::after, .theme2 .owl-dots div.active, .active .testimonial-text, .email-subscribe-form input[type="submit"], .websit-chack-form input[type="submit"], .comment-form input[type="submit"] {
+  background-color: darkcyan;
+}
+.mainmenu.theme2 ul li:hover > a, .theme2 .menu-cta h4 span, .case-study-more:hover i.fa, .theme2 .case-study-more:hover i.fa, .pricing-amount, .social-links a:hover i.fa, .social-links a:hover, span.search-close:hover, .footer-area ul li:hover a, .single-service-box:hover .service-readmore-btn, .single-service-box:hover h3, .single-service-box:hover i, button#Switcher__control span i, .mainmenu ul li:hover > a, .header-absolut .mainmenu ul li a:hover, .footer-area-2 ul li:hover a, .copyright-area-2 ul li:hover a, .social-link a:hover i, .menu-close:hover, .off-canvas-menu li:hover a, .canvas-footer-links a:hover, .inline-btn, .section-icon, feature-icon, .footer-area.theme4 ul li:hover a, .footer-area.theme2 ul li:hover a, .footer-area.theme2 ul li:hover a i, .menu-cta h4 span, .contact-info-icon {
+    color: darkcyan;
+}
+.single-priceing-box:hover, .single-priceing-box:hover .pricing-heading, .single-service-box:hover, .single-service-box:hover {
+    border-color: darkcyan;
+}
+.testimonial-text::after {
+	border-left: 27px solid transparent;
+    border-right: 5px solid transparent;
+    border-top: 25px solid darkcyan;
+}
+.case-stydy-tebelcell .boxed-btn, .cta-area.theme2 .boxed-btn, .boxed-btn:hover {
+	color:#fff;
+}

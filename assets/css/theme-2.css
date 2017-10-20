@@ -1,0 +1,67 @@
+.hero-area {
+  background-color: #5192f6;
+  background-image: url("../img/hero-bg.jpg");
+  color: #fff;
+  padding: 80px 0;
+  background-position:center;
+  background-size:cover;
+}
+.boxed-btn {
+	background-color:#4AD79E;
+}
+.hero-area h1 {
+    color: #fff;
+    font-size: 50px;
+    margin-top: 130px;
+}
+.hero-area p {
+    line-height: 1.8;
+}
+.single-priceing-box.theme2 {
+    padding: 0;
+}
+.theme2 .pricing-heading {
+    background: #fbfbfb none repeat scroll 0 0;
+    border-bottom: medium none;
+    padding: 30px;
+}
+.theme2 .boxed-btn {
+  border-radius: 0 0 4px 4px;
+  width: 100%;
+}
+.theme2 .pricing-amount {
+    background: -webkit-linear-gradient(#4FB6FD, #587BEE);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.single-priceing-box.theme2 h4, .single-priceing-box.theme2 p {
+    transition: 0.3s;
+}
+.single-priceing-box.theme2:hover h4, .single-priceing-box.theme2:hover p {
+    background: -webkit-linear-gradient(#4FB6FD, #587BEE);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    transition:.3s;
+}
+.single-priceing-box.theme2:hover {
+    border-color: #f3f3f3;
+}
+.cta-area.theme2 .boxed-btn {
+    margin-top: 35px;
+    width: 180px;
+    border-radius: 4px;
+}
+.theme2 .social-links li {
+    display: block;
+    width: auto;
+}
+.single-testimonial-item .owl-dots div.active {
+  background-color: #4AD79E;
+}
+.slicknav_nav .slicknav_row:hover, .slicknav_nav a:hover, .slicknav_btn {
+    background-color: #4AD79E;
+}
+
+
+
+
